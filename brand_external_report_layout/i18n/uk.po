@@ -237,3 +237,18 @@ msgstr ""
 "Ідентифікаційний податковий номер. Значення тут буде перевірено на основі "
 "формату країни. Ви можете використовувати '/', щоб вказати, що партнер не "
 "платить податок."
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,help:brand_external_report_layout.field_brand_document_layout__report_header
+#: model:ir.model.fields,help:brand_external_report_layout.field_res_brand__report_header
+msgid ""
+"Appears by default on the top right corner of your printed documents (report"
+" header)."
+msgstr ""
+"За замовчуванням відображається у верхньому правому куті друкованих "
+"документів (заголовок звіту)."
+
+#. module: brand_external_report_layout
+#: model:ir.model,name:brand_external_report_layout.model_brand_document_layout
+msgid "Brand Document Layout"
+msgstr "Макет документа бренду"

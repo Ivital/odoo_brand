@@ -113,3 +113,8 @@ msgstr "Бренд товару"
 #: model:ir.model.fields,help:product_brand.field_product_template__product_brand_id
 msgid "Select a brand for this product"
 msgstr "Виберіть бренд для цього товару"
+
+#. module: product_brand
+#: model:ir.model.fields,help:product_brand.field_product_brand__partner_id
+msgid "Select a partner for this brand if any."
+msgstr "Виберіть партнера для цього бренду, якщо є."

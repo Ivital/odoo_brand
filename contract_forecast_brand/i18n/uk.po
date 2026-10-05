@@ -42,3 +42,8 @@ msgstr "Бренд обов'язковий"
 #: model:ir.model.fields,help:contract_forecast_brand.field_contract_line_forecast_period__brand_id
 msgid "Brand to use for this sale"
 msgstr "Бренд для використання в цьому продажі"
+
+#. module: contract_forecast_brand
+#: model:ir.model,name:contract_forecast_brand.model_contract_line_forecast_period
+msgid "Contract Line Forecast Period"
+msgstr "Період прогнозу рядка договору"

@@ -17,3 +17,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:analytic_brand.field_account_analytic_distribution_model__brand_id
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: analytic_brand
+#: model:ir.model.fields,help:analytic_brand.field_account_analytic_distribution_model__brand_id
+msgid ""
+"Select a brand for which the analytic distribution will be used (e.g. create"
+" new customer invoice or Sales order linked to this brand, it will "
+"automatically take this as an analytic account)"
+msgstr ""
+"Виберіть бренд, для якого використовуватиметься аналітичний розподіл "
+"(наприклад, новий рахунок клієнта або замовлення на продаж, пов’язане з цим "
+"брендом, автоматично використовуватиме його як аналітичний рахунок)."

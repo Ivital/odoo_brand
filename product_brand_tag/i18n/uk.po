@@ -98,3 +98,19 @@ msgstr "Останнє оновлення"
 #: model:ir.model,name:product_brand_tag.model_product_brand
 msgid "Product Brand"
 msgstr "Бренд товару"
+
+#. module: product_brand_tag
+#: model:ir.model,name:product_brand_tag.model_product_brand_tag
+msgid "Product Brand Tag"
+msgstr "Тег бренду товару"
+
+#. module: product_brand_tag
+#: model:ir.model,name:product_brand_tag.model_product_brand_tag_mixin
+msgid "Product Brand Tag Mixin"
+msgstr "Міксин тегу бренду товару"
+
+#. module: product_brand_tag
+#: model:ir.model.constraint,message:product_brand_tag.constraint_product_brand_tag_mixin_tag_code_uniq
+#: model:ir.model.constraint,message:product_brand_tag.constraint_product_brand_tag_tag_code_uniq
+msgid "Tag code must be unique inside a company"
+msgstr "Код тегу має бути унікальним у межах компанії"

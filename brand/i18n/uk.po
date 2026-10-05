@@ -1201,3 +1201,8 @@ msgstr "напр. BE0477472701"
 #: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
 msgid "e.g. https://www.odoo.com"
 msgstr "наприклад, https://www.odoo.com"
+
+#. module: brand
+#: model:ir.model,name:brand.model_res_brand_mixin
+msgid "Brand Mixin"
+msgstr "Міксин бренду"

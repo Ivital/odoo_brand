@@ -32,3 +32,8 @@ msgstr "Рівень використання бренду"
 #: model:ir.model.fields,field_description:stock_brand.field_stock_picking__is_brand_required
 msgid "Is Brand Required"
 msgstr "Бренд обов'язковий"
+
+#. module: stock_brand
+#: model:ir.model.fields,help:stock_brand.field_stock_picking__brand_id
+msgid "Brand to use for this picking."
+msgstr "Бренд для цього переміщення."
