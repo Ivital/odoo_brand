@@ -18,3 +18,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product_brand_mrp.view_mrp_production_filter
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: product_brand_mrp
+#: model:ir.model.fields,help:product_brand_mrp.field_mrp_production__product_brand_id
+msgid "Select a brand for this product"
+msgstr "Виберіть бренд для цього товару"

@@ -22,3 +22,10 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product_brand_stock.view_move_search
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: product_brand_stock
+#: model:ir.model.fields,help:product_brand_stock.field_stock_move__product_brand_id
+#: model:ir.model.fields,help:product_brand_stock.field_stock_move_line__product_brand_id
+#: model:ir.model.fields,help:product_brand_stock.field_stock_quant__product_brand_id
+msgid "Select a brand for this product"
+msgstr "Виберіть бренд для цього товару"

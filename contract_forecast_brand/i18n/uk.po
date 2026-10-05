@@ -37,3 +37,8 @@ msgstr "Рівень використання бренду"
 #: model:ir.model.fields,field_description:contract_forecast_brand.field_contract_line_forecast_period__is_brand_required
 msgid "Is Brand Required"
 msgstr "Бренд обов'язковий"
+
+#. module: contract_forecast_brand
+#: model:ir.model.fields,help:contract_forecast_brand.field_contract_line_forecast_period__brand_id
+msgid "Brand to use for this sale"
+msgstr "Бренд для використання в цьому продажі"

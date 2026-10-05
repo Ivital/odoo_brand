@@ -107,3 +107,9 @@ msgstr "Кількість товарів"
 #: model_terms:ir.ui.view,arch_db:product_brand.product_brand_search_form_view
 msgid "Product Brand"
 msgstr "Бренд товару"
+
+#. module: product_brand
+#: model:ir.model.fields,help:product_brand.field_product_product__product_brand_id
+#: model:ir.model.fields,help:product_brand.field_product_template__product_brand_id
+msgid "Select a brand for this product"
+msgstr "Виберіть бренд для цього товару"

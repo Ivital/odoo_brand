@@ -33,3 +33,8 @@ msgstr "Рівень використання бренду"
 #: model:ir.model.fields,field_description:sale_brand.field_sale_order__is_brand_required
 msgid "Is Brand Required"
 msgstr "Бренд обов'язковий"
+
+#. module: sale_brand
+#: model:ir.model.fields,help:sale_brand.field_sale_order__brand_id
+msgid "Brand to use for this sale"
+msgstr "Бренд для використання в цьому продажі"

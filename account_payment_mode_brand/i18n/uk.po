@@ -20,3 +20,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:account_payment_mode_brand.field_res_brand_mixin__allowed_payment_mode_ids
 msgid "Allowed Payment Mode"
 msgstr "Дозволений спосіб оплати"
+
+#. module: account_payment_mode_brand
+#: model:ir.model.fields,field_description:account_payment_mode_brand.field_res_brand__allowed_payment_mode_ids
+msgid "Allowed payment modes"
+msgstr "Дозволені режими платежу"

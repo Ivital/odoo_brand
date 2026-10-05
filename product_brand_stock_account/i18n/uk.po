@@ -18,3 +18,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product_brand_stock_account.view_inventory_valuation_search
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: product_brand_stock_account
+#: model:ir.model.fields,help:product_brand_stock_account.field_stock_valuation_layer__product_brand_id
+msgid "Select a brand for this product"
+msgstr "Виберіть бренд для цього товару"

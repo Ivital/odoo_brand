@@ -32,3 +32,12 @@ msgstr "Логотип бренду"
 #: model:ir.ui.menu,name:partner_brand.res_brand_menu
 msgid "Brands"
 msgstr "Бренди"
+
+#. module: partner_brand
+#: model_terms:ir.ui.view,arch_db:partner_brand.res_partner_kanban_view
+msgid ""
+"<span title=\"This company is linked to a brand\" invisible=\"not "
+"brand_logo\">® &amp;nbsp;</span>"
+msgstr ""
+"<span title=\"Ця компанія пов’язана з брендом\" invisible=\"not "
+"brand_logo\">® &amp;nbsp;</span>"

@@ -85,3 +85,9 @@ msgstr "До сплати"
 #: model:ir.model.fields.selection,name:account_brand.selection__res_partner_account_brand__account_type__asset_receivable
 msgid "Receivable"
 msgstr "До отримання"
+
+#. module: account_brand
+#: model:ir.model.fields,help:account_brand.field_account_bank_statement_line__brand_id
+#: model:ir.model.fields,help:account_brand.field_account_move__brand_id
+msgid "Brand to use for this sale"
+msgstr "Бренд для використання в цьому продажі"
