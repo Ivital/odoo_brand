@@ -18,3 +18,13 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:contract_brand.contract_contract_search_view
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: contract_brand
+#: model:ir.model.fields,field_description:contract_brand.field_contract_contract__brand_use_level
+msgid "Brand Use Level"
+msgstr "Рівень використання бренду"
+
+#. module: contract_brand
+#: model:ir.model.fields,field_description:contract_brand.field_contract_contract__is_brand_required
+msgid "Is Brand Required"
+msgstr "Бренд обов'язковий"

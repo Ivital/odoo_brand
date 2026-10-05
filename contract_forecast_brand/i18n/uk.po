@@ -22,3 +22,18 @@ msgstr "Бренд"
 #: model:ir.model.fields,field_description:contract_forecast_brand.field_contract_line_forecast_period__company_id
 msgid "Company"
 msgstr "Компанія"
+
+#. module: contract_forecast_brand
+#: model:ir.model.fields,field_description:contract_forecast_brand.field_contract_line_forecast_period__allowed_payment_mode_ids
+msgid "Allowed Payment Mode"
+msgstr "Дозволений спосіб оплати"
+
+#. module: contract_forecast_brand
+#: model:ir.model.fields,field_description:contract_forecast_brand.field_contract_line_forecast_period__brand_use_level
+msgid "Brand Use Level"
+msgstr "Рівень використання бренду"
+
+#. module: contract_forecast_brand
+#: model:ir.model.fields,field_description:contract_forecast_brand.field_contract_line_forecast_period__is_brand_required
+msgid "Is Brand Required"
+msgstr "Бренд обов'язковий"

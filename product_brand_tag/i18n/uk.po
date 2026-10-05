@@ -78,3 +78,23 @@ msgstr "Теги брендів товарів"
 #: model:ir.model.fields,field_description:product_brand_tag.field_product_brand__tag_ids
 msgid "Tags"
 msgstr "Теги"
+
+#. module: product_brand_tag
+#: model:ir.actions.act_window,name:product_brand_tag.action_product_brand_tags
+msgid "Brand tags"
+msgstr "Теги бренду"
+
+#. module: product_brand_tag
+#: model:ir.model.fields,field_description:product_brand_tag.field_product_brand_tag__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: product_brand_tag
+#: model:ir.model.fields,field_description:product_brand_tag.field_product_brand_tag__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: product_brand_tag
+#: model:ir.model,name:product_brand_tag.model_product_brand
+msgid "Product Brand"
+msgstr "Бренд товару"

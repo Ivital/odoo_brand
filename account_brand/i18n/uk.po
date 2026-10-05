@@ -55,3 +55,33 @@ msgstr "Рахунки партнерів за брендом"
 #: model:ir.model.fields,field_description:account_brand.field_res_partner_account_brand__account_type
 msgid "Type"
 msgstr "Тип"
+
+#. module: account_brand
+#: model:ir.model.fields,field_description:account_brand.field_account_move__brand_use_level
+msgid "Brand Use Level"
+msgstr "Рівень використання бренду"
+
+#. module: account_brand
+#: model:ir.model.fields,field_description:account_brand.field_account_move__is_brand_required
+msgid "Is Brand Required"
+msgstr "Бренд обов'язковий"
+
+#. module: account_brand
+#: model:ir.model.fields,field_description:account_brand.field_res_partner_account_brand__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: account_brand
+#: model:ir.model.fields,field_description:account_brand.field_res_partner_account_brand__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: account_brand
+#: model:ir.model.fields.selection,name:account_brand.selection__res_partner_account_brand__account_type__liability_payable
+msgid "Payable"
+msgstr "До сплати"
+
+#. module: account_brand
+#: model:ir.model.fields.selection,name:account_brand.selection__res_partner_account_brand__account_type__asset_receivable
+msgid "Receivable"
+msgstr "До отримання"

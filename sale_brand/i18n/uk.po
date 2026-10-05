@@ -18,3 +18,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_brand.field_sale_order__brand_id
 msgid "Brand"
 msgstr "Бренд"
+
+#. module: sale_brand
+#: model:ir.model.fields,field_description:sale_brand.field_sale_order__allowed_payment_mode_ids
+msgid "Allowed Payment Mode"
+msgstr "Дозволений спосіб оплати"
+
+#. module: sale_brand
+#: model:ir.model.fields,field_description:sale_brand.field_sale_order__brand_use_level
+msgid "Brand Use Level"
+msgstr "Рівень використання бренду"
+
+#. module: sale_brand
+#: model:ir.model.fields,field_description:sale_brand.field_sale_order__is_brand_required
+msgid "Is Brand Required"
+msgstr "Бренд обов'язковий"

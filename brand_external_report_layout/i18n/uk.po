@@ -96,3 +96,92 @@ msgstr "Податковий номер"
 #: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__website
 msgid "Website Link"
 msgstr "Посилання на вебсайт"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__layout_background_image
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__layout_background_image
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields.selection,name:brand_external_report_layout.selection__res_brand__layout_background__blank
+msgid "Blank"
+msgstr "Порожній"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__company_details
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__company_details
+msgid "Brand Details"
+msgstr "Деталі бренду"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields.selection,name:brand_external_report_layout.selection__res_brand__layout_background__custom
+msgid "Custom"
+msgstr "Користувацький"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__custom_colors
+msgid "Custom Colors"
+msgstr "Власні кольори"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__external_report_layout_id
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__external_report_layout_id
+msgid "Document Template"
+msgstr "Шаблон документа"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__is_company_details_empty
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__is_company_details_empty
+msgid "Is Company Details Empty"
+msgstr "Реквізити компанії порожні"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__layout_background
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__layout_background
+msgid "Layout Background"
+msgstr "Фон макета"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__preview_logo
+msgid "Preview logo"
+msgstr "Попередній перегляд логотипу"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__primary_color
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__primary_color
+msgid "Primary Color"
+msgstr "Основний колір"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__report_footer
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__report_footer
+msgid "Report Footer"
+msgstr "Нижній колонтитул звіту"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__report_header
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__report_header
+msgid "Report Header"
+msgstr "Заголовок звіту"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__report_layout_id
+msgid "Report Layout"
+msgstr "Макет звіту"
+
+#. module: brand_external_report_layout
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_brand_document_layout__secondary_color
+#: model:ir.model.fields,field_description:brand_external_report_layout.field_res_brand__secondary_color
+msgid "Secondary Color"
+msgstr "Додатковий колір"
