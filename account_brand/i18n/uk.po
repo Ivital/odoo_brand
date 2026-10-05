@@ -101,3 +101,9 @@ msgstr "Партнер уже має рахунок для цього бренд
 #: model:ir.model,name:account_brand.model_res_partner_account_brand
 msgid "Receivable/Payable Partner Account By Brand"
 msgstr "Рахунок дебіторської/кредиторської заборгованості партнера за брендом"
+
+#. module: account_brand
+#. odoo-python
+#: code:addons/account_brand/models/res_partner_account_brand.py:0
+msgid "Please select an account of type %s"
+msgstr "Виберіть рахунок типу %s"

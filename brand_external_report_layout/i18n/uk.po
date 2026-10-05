@@ -252,3 +252,9 @@ msgstr ""
 #: model:ir.model,name:brand_external_report_layout.model_brand_document_layout
 msgid "Brand Document Layout"
 msgstr "Макет документа бренду"
+
+#. module: brand_external_report_layout
+#. odoo-python
+#: code:addons/brand_external_report_layout/models/res_brand.py:0
+msgid "Configure your document layout"
+msgstr "Налаштуйте макет документа"

@@ -31,3 +31,13 @@ msgid ""
 msgstr ""
 "Номер банківського рахунку, на який оплачуватимуться рахунки цього бренду "
 "(для рахунка клієнта та кредит-ноти постачальника)"
+
+#. module: account_invoice_bank_brand
+#. odoo-python
+#: code:addons/account_invoice_bank_brand/models/res_brand.py:0
+msgid ""
+"The account selected for invoices payment does not belong to the same "
+"partner as this brand."
+msgstr ""
+"Рахунок, вибраний для оплати рахунків, не належить тому самому партнеру, що "
+"й цей бренд."

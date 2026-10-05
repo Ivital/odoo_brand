@@ -1206,3 +1206,15 @@ msgstr "наприклад, https://www.odoo.com"
 #: model:ir.model,name:brand.model_res_brand_mixin
 msgid "Brand Mixin"
 msgstr "Міксин бренду"
+
+#. module: brand
+#. odoo-python
+#: code:addons/brand/models/res_brand_mixin.py:0
+msgid "Brand company must match document company for %s"
+msgstr "Компанія бренду має збігатися з компанією документа для %s"
+
+#. module: brand
+#. odoo-python
+#: code:addons/brand/models/res_brand_mixin.py:0
+msgid "Brand is required"
+msgstr "Потрібен бренд"
