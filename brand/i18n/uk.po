@@ -1,0 +1,383 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-10-05 05:39+0000\n"
+"Last-Translator: Ivital <Ivital@users.noreply.github.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__active
+msgid "Active"
+msgstr "Активний"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__activity_ids
+msgid "Activities"
+msgstr "Дії"
+
+#. module: brand
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "Address"
+msgstr "Адреса"
+
+#. module: brand
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "Archived"
+msgstr "Архівовано"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__avatar_1920
+msgid "Avatar"
+msgstr "Аватар"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__avatar_1024
+msgid "Avatar 1024"
+msgstr "Аватар 1024"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__avatar_128
+msgid "Avatar 128"
+msgstr "Аватар 128"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__avatar_256
+msgid "Avatar 256"
+msgstr "Аватар 256"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__avatar_512
+msgid "Avatar 512"
+msgstr "Аватар 512"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__bank_account_count
+msgid "Bank"
+msgstr "Банк"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__bank_ids
+msgid "Banks"
+msgstr "Банки"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__barcode
+msgid "Barcode"
+msgstr "Штрихкод"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__is_blacklisted
+msgid "Blacklist"
+msgstr "Чорний список"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__message_bounce
+msgid "Bounce"
+msgstr "Відмова доставки"
+
+#. module: brand
+#: model:ir.model,name:brand.model_res_brand
+#: model:ir.model.fields,field_description:brand.field_res_brand_mixin__brand_id
+#: model_terms:ir.ui.view,arch_db:brand.res_config_settings_view_form
+msgid "Brand"
+msgstr "Бренд"
+
+#. module: brand
+#: model:ir.actions.act_window,name:brand.res_brand_act_window
+#: model:ir.ui.menu,name:brand.res_brand_menu
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_list_view
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_search_view
+msgid "Brands"
+msgstr "Бренди"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__buyer_id
+msgid "Buyer"
+msgstr "Покупець"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__channel_ids
+msgid "Channels"
+msgstr "Канали"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__city
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "City"
+msgstr "Місто"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__color
+msgid "Color Index"
+msgstr "Індекс кольору"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__company_id
+#: model:ir.model.fields,field_description:brand.field_res_brand_mixin__company_id
+msgid "Company"
+msgstr "Компанія"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__company_registry
+msgid "Company ID"
+msgstr "ID компанії"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__company_name
+msgid "Company Name"
+msgstr "Назва компанії"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__child_ids
+msgid "Contact"
+msgstr "Контакт"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__contract_ids
+msgid "Contracts"
+msgstr "Договори"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__country_id
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "Country"
+msgstr "Країна"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__country_code
+msgid "Country Code"
+msgstr "Код країни"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__currency_id
+msgid "Currency"
+msgstr "Валюта"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__email
+msgid "Email"
+msgstr "Електронна пошта"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__employee
+msgid "Employee"
+msgstr "Працівник"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__message_follower_ids
+msgid "Followers"
+msgstr "Підписники"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__partner_latitude
+msgid "Geo Latitude"
+msgstr "Географічна широта"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__has_message
+msgid "Has Message"
+msgstr "Має повідомлення"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__im_status
+msgid "IM Status"
+msgstr "Статус IM"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__activity_exception_icon
+msgid "Icon"
+msgstr "Іконка"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__image_1920
+msgid "Image"
+msgstr "Зображення"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__image_1024
+msgid "Image 1024"
+msgstr "Зображення 1024"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__image_128
+msgid "Image 128"
+msgstr "Зображення 128"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__image_256
+msgid "Image 256"
+msgstr "Зображення 256"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__image_512
+msgid "Image 512"
+msgstr "Зображення 512"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__invoice_warn
+msgid "Invoice"
+msgstr "Рахунок-фактура"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__invoice_ids
+msgid "Invoices"
+msgstr "Рахунки-фактури"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__message_is_follower
+msgid "Is Follower"
+msgstr "Є підписником"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__is_public
+msgid "Is Public"
+msgstr "Публічний"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__is_company
+msgid "Is a Company"
+msgstr "Є компанією"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__function
+msgid "Job Position"
+msgstr "Посада"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__lang
+msgid "Language"
+msgstr "Мова"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__message_ids
+msgid "Messages"
+msgstr "Повідомлення"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__mobile
+msgid "Mobile"
+msgstr "Мобільний"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__name
+msgid "Name"
+msgstr "Назва"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__comment
+msgid "Notes"
+msgstr "Нотатки"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__parent_name
+msgid "Parent name"
+msgstr "Батьківська назва"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__partner_id
+msgid "Partner"
+msgstr "Партнер"
+
+#. module: brand
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "Partners"
+msgstr "Партнери"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__phone
+msgid "Phone"
+msgstr "Телефон"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__ref
+msgid "Reference"
+msgstr "Посилання"
+
+#. module: brand
+#: model:ir.model.fields.selection,name:brand.selection__res_company__brand_use_level__required
+msgid "Required"
+msgstr "Обов’язкове"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__sale_order_ids
+msgid "Sales Order"
+msgstr "Замовлення на продаж"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__state_id
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "State"
+msgstr "Стан"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__street
+msgid "Street"
+msgstr "Вулиця"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__street2
+msgid "Street2"
+msgstr "Вулиця 2"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__vat
+msgid "Tax ID"
+msgstr "Податковий номер"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__vat_label
+msgid "Tax ID Label"
+msgstr "Мітка податкового номера"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__tz
+msgid "Timezone"
+msgstr "Часовий пояс"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__title
+msgid "Title"
+msgstr "Заголовок"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__user_ids
+msgid "Users"
+msgstr "Користувачі"
+
+#. module: brand
+#: model_terms:ir.ui.view,arch_db:brand.res_brand_form_view
+msgid "Website"
+msgstr "Вебсайт"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__website
+msgid "Website Link"
+msgstr "Посилання на вебсайт"
+
+#. module: brand
+#: model:ir.model.fields,field_description:brand.field_res_brand__zip
+msgid "Zip"
+msgstr "Поштовий індекс"
